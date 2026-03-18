@@ -171,7 +171,7 @@ scipy>=1.11.0
 ## 👤 Autor
 
 **Seu Nome**
-- GitHub: [@seu_usuario](https://github.com/seu_usuario)
+- GitHub: [henry842](https://github.com/henry842)
 - Programa de Empregabilidade — Módulo 4
 
 ---
