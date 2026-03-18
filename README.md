@@ -116,10 +116,10 @@ Abra `projeto_deteccao_fraude.ipynb` no VS Code ou Jupyter e execute célula por
 
 | Métrica | Árvore de Decisão | XGBoost |
 |---|---|---|
-| AUC-ROC | 0.9112 | 0.9814 |
-| F1 (Fraude) | 0.1634 | 0.8542 |
-| Recall (Fraude) | 0.8469 | 0.8367 |
-| Avg Precision | 0.5672 | 0.8774 |
+| **AUC-ROC** | 0.9112 | **0.9814** |
+| **F1 (Fraude)** | 0.1634 | **0.8542** |
+| **Recall (Fraude)** | 0.8469 | 0.8367 |
+| **Avg Precision** | 0.5672 | **0.8774** |
 
 > 📌 Preencha com seus resultados após rodar o notebook.
 
@@ -171,7 +171,7 @@ scipy>=1.11.0
 ## 👤 Autor
 
 **Seu Nome**
-- GitHub: [henry842](https://github.com/henry842)
+- GitHub: [@seu_usuario](https://github.com/seu_usuario)
 - Programa de Empregabilidade — Módulo 4
 
 ---
