@@ -1,0 +1,25 @@
+# Dados — nunca subir no Git
+data/raw/
+data/processed/
+*.csv
+*.parquet
+*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+
+# Ambiente
+.env
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
