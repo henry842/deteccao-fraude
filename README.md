@@ -75,7 +75,7 @@ Objetivo principal: Identificar padroes suspeitos em transacoes e avaliar aborda
 
 ### Chapter 1 - Data Understanding | Entendimento dos Dados
 
-![Data Understanding | Entendimento dos Dados](assets/readme/project_overview.svg)
+![Data Understanding | Entendimento dos Dados](assets/grafico_01.png)
 
 **EN**
 
@@ -91,6 +91,8 @@ O que a base ou entradas representam, qual e o significado de cada observacao e 
 
 ### Chapter 2 - Exploratory Analysis | Analise Exploratoria
 
+![Exploratory Analysis | Analise Exploratoria](assets/grafico_02.png)
+
 **EN**
 
 The first visual layer reveals distributions, outliers, concentrations and relationships that guide the rest of the project.
@@ -104,6 +106,8 @@ A primeira camada visual revela distribuicoes, outliers, concentracoes e relacoe
 - PT-BR: A evidencia visual ajuda a conectar o resultado tecnico a uma decisao ou interpretacao concreta.
 
 ### Chapter 3 - Modeling / Logic | Modelagem ou Logica
+
+![Modeling / Logic | Modelagem ou Logica](assets/grafico_03.png)
 
 **EN**
 
@@ -119,6 +123,8 @@ O projeto transforma dados em decisoes usando raciocinio estatistico, regras, lo
 
 ### Chapter 4 - Results and Interpretation | Resultados e Interpretacao
 
+![Results and Interpretation | Resultados e Interpretacao](assets/grafico_04.png)
+
 **EN**
 
 The outputs are interpreted in practical language so the repository works as both technical evidence and portfolio storytelling.
@@ -126,6 +132,55 @@ The outputs are interpreted in practical language so the repository works as bot
 **PT-BR**
 
 Os resultados sao interpretados em linguagem pratica para que o repositorio funcione como evidencia tecnica e narrativa de portfolio.
+
+**Insight | Insight**
+- EN: Visual evidence helps connect the technical result to a concrete decision or interpretation.
+- PT-BR: A evidencia visual ajuda a conectar o resultado tecnico a uma decisao ou interpretacao concreta.
+
+
+### Chapter 5 - Additional Visual 5 | Visual Adicional 5
+
+![Additional Visual 5 | Visual Adicional 5](assets/grafico_05.png)
+
+**EN**
+
+Complementary chart used to expand the analytical reading of the project.
+
+**PT-BR**
+
+Grafico complementar usado para ampliar a leitura analitica do projeto.
+
+**Insight | Insight**
+- EN: Visual evidence helps connect the technical result to a concrete decision or interpretation.
+- PT-BR: A evidencia visual ajuda a conectar o resultado tecnico a uma decisao ou interpretacao concreta.
+
+### Chapter 6 - Additional Visual 6 | Visual Adicional 6
+
+![Additional Visual 6 | Visual Adicional 6](assets/grafico_06.png)
+
+**EN**
+
+Complementary chart used to expand the analytical reading of the project.
+
+**PT-BR**
+
+Grafico complementar usado para ampliar a leitura analitica do projeto.
+
+**Insight | Insight**
+- EN: Visual evidence helps connect the technical result to a concrete decision or interpretation.
+- PT-BR: A evidencia visual ajuda a conectar o resultado tecnico a uma decisao ou interpretacao concreta.
+
+### Chapter 7 - Additional Visual 7 | Visual Adicional 7
+
+![Additional Visual 7 | Visual Adicional 7](assets/grafico_07.png)
+
+**EN**
+
+Complementary chart used to expand the analytical reading of the project.
+
+**PT-BR**
+
+Grafico complementar usado para ampliar a leitura analitica do projeto.
 
 **Insight | Insight**
 - EN: Visual evidence helps connect the technical result to a concrete decision or interpretation.
